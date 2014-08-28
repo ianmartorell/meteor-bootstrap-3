@@ -1,4 +1,5 @@
 Package.describe({
+  name: 'ian:bootstrap-3',
   summary: 'Provides bootstrap 3.2',
   version: '1.0.1'
 });
