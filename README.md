@@ -1,6 +1,14 @@
 Meteor Bootstrap-3
 ==================
 
+### DEPRECATED
+
+Please use [mizzao's package](https://github.com/mizzao/meteor-bootstrap-3) instead!
+
+Github: https://github.com/mizzao/meteor-bootstrap-3
+Atmosphere: https://atmospherejs.com/mizzao/bootstrap-3
+
+
 [Bootstrap 3.2](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
 
 An HTML, CSS and JS framework for developing responsive, mobile first projects on the web.
