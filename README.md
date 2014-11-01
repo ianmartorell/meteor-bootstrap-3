@@ -5,7 +5,7 @@ Meteor Bootstrap-3
 
 Please use [mizzao's package](https://github.com/mizzao/meteor-bootstrap-3) instead!
 
-Github: https://github.com/mizzao/meteor-bootstrap-3
+Github: https://github.com/mizzao/meteor-bootstrap-3  
 Atmosphere: https://atmospherejs.com/mizzao/bootstrap-3
 
 ## Old notes
