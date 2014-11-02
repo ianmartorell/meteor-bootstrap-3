@@ -5,7 +5,7 @@ Meteor Bootstrap-3
 
 An HTML, CSS and JS framework for developing responsive, mobile first projects on the web.
 
-#### Installation
+### Installation
 
 With Meteor 0.9 or above:
 
