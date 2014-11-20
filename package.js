@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ian:bootstrap-3',
   summary: "HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
-  version: '3.3.0_2',
+  version: '3.3.1',
   git: 'https://github.com/ianmartorell/meteor-bootstrap-3'
 });
 
