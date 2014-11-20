@@ -1,7 +1,7 @@
 Meteor Bootstrap-3
 ==================
 
-[Bootstrap 3.2](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
+[Bootstrap 3.3.1](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
 
 An HTML, CSS and JS framework for developing responsive, mobile first projects on the web.
 
