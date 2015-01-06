@@ -1,14 +1,11 @@
 Meteor Bootstrap-3
 ==================
 
-[Bootstrap 3.3.1](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
+This package was a temporary way to get Bootstrap 3 into Meteor apps approaching the 1.0 release.
 
-An HTML, CSS and JS framework for developing responsive, mobile first projects on the web.
-
-### Installation
-
-With Meteor 0.9 or above:
+We recommend you use (or switch to) the [official
+integration](https://atmospherejs.com/twbs/bootstrap) of Bootstrap 3:
 
 ```sh
-$ meteor add ian:bootstrap-3
+$ meteor add twbs:bootstrap
 ```
